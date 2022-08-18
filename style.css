@@ -118,7 +118,7 @@ body {
     width: 25px;
     height: 25px;
     margin-right: 5px;
-    background-image: url('/images/icon-cart.svg');
+    background-image: url('images/icon-cart.svg');
     background-position: center;
     background-repeat: no-repeat;
     object-fit: cover;
